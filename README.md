@@ -1,5 +1,5 @@
 ## Hi there 👋
-Testing my first repository/n
+Testing my first repository
 2nd try
 <!--
 **kstomp93/kstomp93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
